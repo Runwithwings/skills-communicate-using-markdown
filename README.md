@@ -1,5 +1,5 @@
 <header>
-#
+# This is a Header
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
